@@ -104,7 +104,7 @@ https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-
 Once you're done, go back to the terminal and try `git clone your_repo` again!
 
 If `git commit` tell you something like:
-
+```
 *** Please tell me who you are.
 
 Run
@@ -118,8 +118,9 @@ Omit --global to set the identity only in this repository.
 fatal: unable to auto-detect email address (got 'prcheng@dsmlp-jupyter-prcheng.(none)')
 Warning: Permanently added the RSA host key for IP address '140.82.112.3' to the list of known hosts.
 Everything up-to-date
-Then you can do (but fill in your @ucr.edu email and your name):
+```
 
+Then you can use a terminal and type in those commands to set this information correctly (but fill in your @ucr.edu email and your name).
 
 ## Open the Notebook
 
